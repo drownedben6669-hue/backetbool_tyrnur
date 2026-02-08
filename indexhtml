@@ -1,0 +1,117 @@
+<html>
+<head>
+    <title>Баскетбольний турнир</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <button class="tournament-btn">Турнір</button>
+            <button class="my-button"> Лос-Анджеліс Лейкерс</button>
+            <button class="green-button"> Бостон Селтікс</button>
+        </nav>
+    </header>
+    <main>
+        <div class="info-section">
+
+        <div class="match-box">
+            <h1>27.02.2026 — Баскетбольний турнір</h1>
+            <h2>Лос-Анджеліс Лейкерс vs Бостон Селтікс</h2>
+        </div>
+
+    <div class="team-box lakers">
+        <h2>Лос-Анджеліс Лейкерс</h2>
+        <p>
+            «Лос-Анджелес Лейкерс» — легендарний американський професійний
+            баскетбольний клуб, що виступає в Тихоокеанському дивізіоні
+            Західної конференції НБА. Заснована у 1946 році, команда
+            базується в Лос-Анджелесі, Каліфорнія.
+        </p>
+    </div>
+
+    <div class="team-box celtics">
+        <h2>Бостон Селтікс</h2>
+        <p>
+            «Бостон Селтікс» — професійна баскетбольна команда з Бостона,
+            заснована у 1946 році, яка виступає в Атлантичному дивізіоні
+            Східної конференції НБА. З 18 титулами чемпіона «Селтікс»
+            є найтитулованішим клубом в історії НБА.
+        </p>
+    </div>
+
+            <div class="players-box">
+                <h2>Ключові гравці</h2>
+                <div class="player">
+                    <h3>Лука Дончич</h3>
+                    <p>Гравець команди Лос-Анджелес Лейкерс</p>
+                </div>
+
+                <div class="player">
+                    <h3>Джейлен браун</h3>
+                    <p>Гравець команди Бостон Селтікс</p>
+                </div>
+            </div>
+
+        </div>
+        <div class="guests">
+
+            <div class="card">
+                <img src="https://stattico.cdnndc.com/uploads/player/headshot/109/size_256_3945274.png">
+                <h1>Лука Дончич</h1>
+                <p>Гравець команди Лос-Анджелес Лейкерс</p>
+            </div>
+
+            <div class="card">
+                <img src="https://stattico.cdnndc.com/uploads/player/headshot/438/size_256_4278129.png">
+                <h1>Деандре Ейтон</h1>
+                <p>Гравець команди Лос-Анджелес Лейкерc</p>
+            </div>
+
+            <div class="card">
+                <img src="https://stattico.cdnndc.com/uploads/player/headshot/239/size_256_4066648.png">
+                <h1>Руї Хачімура</h1>
+                <p>Гравець команди Лос-Анджелес Лейкерc</p>
+            </div>
+
+            <div class="card">
+                <img src="https://stattico.cdnndc.com/uploads/player/headshot/240/size_256_4397077.png">
+                <h1>Джексон Гейс</h1>
+                <p>Гравець команди Лос-Анджелес Лейкерc</p>
+                
+            </div>
+        </div>
+        <h1>V|S</h1>
+        <div class="guests">
+            
+            <div class="cardi">
+                <img src="https://stattico.cdnndc.com/uploads/player/headshot/496/size_256_3948153.png">
+                <h1>Кріс Буше</h1>
+                <p>Гравець команди Бостон Селтікс </p>
+            </div>
+
+            <div class="cardi">
+                <img src="https://stattico.cdnndc.com/uploads/player/headshot/20/size_256_3917376.png">
+                <h1>Джейлен Браун</h1>
+                <p>Гравець команди Бостон Селтікс </p>
+            </div>
+
+            <div class="cardi">
+                <img src="https://stattico.cdnndc.com/uploads/player/headshot/317/size_256_4277951.png">
+                <h1>Лука Гарза</h1>
+                <p>Гравець команди Бостон Селтікс </p>
+            </div>
+
+            <div class="cardi">
+                <img src="https://stattico.cdnndc.com/uploads/player/headshot/22/size_256_4065804.png">
+                <h1>Сем Гаузер</h1>
+                <p >Гравець команди Бостон Селтікс </p>
+                
+            </div>
+        </div>
+    </main>
+    <footer>
+        <h2 class="text">Сайт розробив Остапчук Данієль Романович</h2>
+        <h3 class="dani">Інформація не правдива</h3>
+    </footer>
+</body>
+</html>
